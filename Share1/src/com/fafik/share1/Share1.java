@@ -6,7 +6,7 @@ public class Share1 {
 		// TODO Auto-generated method stub
 		System.out.println("Pies: fafik");
 		System.out.println("Kot: klara");
-		System.out.println("Ptak: ćwirek");
+		System.out.println("Ptak: cwirek");
 	
 
 	}
