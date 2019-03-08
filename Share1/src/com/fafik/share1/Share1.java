@@ -8,6 +8,7 @@ public class Share1 {
 		System.out.println("Kot: Klara");
 		System.out.println("Ptak: Cwirek");
 		System.out.println("Mysz: Miki");
+		System.out.println("Waz: Boa");
 
 	}
 
