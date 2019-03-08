@@ -11,6 +11,7 @@ public class Share1 {
 		System.out.println("Waz: Boa");
 		System.out.println("Ryba: Wanda");
 		System.out.println("2 Ryba: Bozenka");
+		System.out.println("3 Ryba: Bozenka");
 		
 
 	}
