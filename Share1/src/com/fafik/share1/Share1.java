@@ -10,6 +10,7 @@ public class Share1 {
 		System.out.println("Mysz: Miki");
 		System.out.println("Waz: Boa");
 		System.out.println("Ryba: Wanda");
+		System.out.println("2 Ryba: Bozenka");
 		
 
 	}
