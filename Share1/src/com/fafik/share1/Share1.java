@@ -13,7 +13,12 @@ public class Share1 {
 		System.out.println("2 Ryba: Bozenka");
 		System.out.println("3 Ryba: Bozenka");
 		System.out.println("4 Ryba: Bozenka");
+<<<<<<< HEAD
 
+=======
+		System.out.println("5 Ryba: Bozenka");
+		
+>>>>>>> branch 'master' of https://github.com/jnagorz/Share1.git
 	}
 
 }
